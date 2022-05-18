@@ -1,0 +1,15 @@
+F:\НАУ\Курс 2\2 семестр\АПЗ\BaseData\Temp\bin\Debug\Temp.exe.config
+F:\НАУ\Курс 2\2 семестр\АПЗ\BaseData\Temp\bin\Debug\Temp.exe
+F:\НАУ\Курс 2\2 семестр\АПЗ\BaseData\Temp\bin\Debug\Temp.pdb
+F:\НАУ\Курс 2\2 семестр\АПЗ\BaseData\Temp\bin\Debug\EntityFramework.dll
+F:\НАУ\Курс 2\2 семестр\АПЗ\BaseData\Temp\bin\Debug\EntityFramework.SqlServer.dll
+F:\НАУ\Курс 2\2 семестр\АПЗ\BaseData\Temp\bin\Debug\EntityFramework.xml
+F:\НАУ\Курс 2\2 семестр\АПЗ\BaseData\Temp\bin\Debug\EntityFramework.SqlServer.xml
+F:\НАУ\Курс 2\2 семестр\АПЗ\BaseData\Temp\bin\Debug\ru\EntityFramework.resources.dll
+F:\НАУ\Курс 2\2 семестр\АПЗ\BaseData\Temp\obj\Debug\Temp.csproj.AssemblyReference.cache
+F:\НАУ\Курс 2\2 семестр\АПЗ\BaseData\Temp\obj\Debug\Temp.csproj.CoreCompileInputs.cache
+F:\НАУ\Курс 2\2 семестр\АПЗ\BaseData\Temp\obj\Debug\Temp.exe
+F:\НАУ\Курс 2\2 семестр\АПЗ\BaseData\Temp\obj\Debug\Temp.pdb
+F:\НАУ\Курс 2\2 семестр\АПЗ\BaseData\Temp\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+F:\НАУ\Курс 2\2 семестр\АПЗ\BaseData\Temp\obj\Debug\Temp.csproj.SuggestedBindingRedirects.cache
+F:\НАУ\Курс 2\2 семестр\АПЗ\BaseData\Temp\obj\Debug\Temp.csproj.CopyComplete
